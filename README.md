@@ -2,7 +2,7 @@
 
 ## EXTENSIONS
 
-![alt text](./extensions-1.png)
+![extension-image](./extensions1.png)
 
 #### _Auto Rename Tag_
 
@@ -51,7 +51,7 @@ Highlights matching closing or opening tag
 
 #### _indent-rainbow_
 
-Makes indentation easier to read
+An indent-rainbow Makes indentation clear and easier to read
 
 #### _Live Server_
 
@@ -61,7 +61,7 @@ Launch a development local Server with live reload feature for static & dynamic 
 
 Provides syntax highlighting and bracket matching for MDX (JSX in Markdown) files.
 
-![alt text](./extensions-2.png)
+![extensions-image](./extensions2.png)
 
 #### _Prettier - Code formatter_
 
