@@ -1,6 +1,6 @@
-# VS CODE SETUP
+# VISUAL STUDIO CODE SETUP
 
-## EXTENSIONS
+## BEST EXTENSIONS
 
 ![extension-image](./extensions1.png)
 
